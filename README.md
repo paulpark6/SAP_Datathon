@@ -25,3 +25,25 @@ or principal component analysis (PCA) to assess impact.
 N most affected countries.
 ○ Highlight areas for improvement and potential solutions that align with SAP’s
 sustainability efforts.
+
+Evaluation Criteria
+Submissions will be evaluated based on:
+1. Index Construction & Methodology (30%)
+○ How well the multidimensional index is structured and justified.
+○ Soundness of methodology in weighting and aggregating indicators.
+2. Data-Driven Insights (25%)
+○ Depth of analysis in identifying key contributing indicators to poverty.
+○ Use of statistical/machine learning techniques to determine influence.
+3. Policy Recommendations (20%)
+○ Relevance and feasibility of proposed interventions for the top N affected
+countries.
+○ Alignment with SAP’s sustainability goals.
+4. Innovation & Creativity (15%)
+○ Unique approaches in index construction, visualization, or storytelling.
+5. Clarity & Presentation (10%)
+○ Well-structured report, code, and visualizations to support conclusions.
+
+Submission Requirements
+● A detailed report outlining the methodology, analysis, and policy recommendations.
+● A visual representation (dashboard, charts, or heatmaps) to illustrate findings.
+● A notebook or script (Python, R, or SQL) showcasing the analytical workflow.
