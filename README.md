@@ -26,7 +26,7 @@ N most affected countries.
 ○ Highlight areas for improvement and potential solutions that align with SAP’s
 sustainability efforts.
 
-#Evaluation Criteria
+# Evaluation Criteria
 Submissions will be evaluated based on:
 1. Index Construction & Methodology (30%)
 ○ How well the multidimensional index is structured and justified.
@@ -43,7 +43,7 @@ countries.
 5. Clarity & Presentation (10%)
 ○ Well-structured report, code, and visualizations to support conclusions.
 
-#Submission Requirements
+# Submission Requirements
 1. A detailed report outlining the methodology, analysis, and policy recommendations.
 2. A visual representation (dashboard, charts, or heatmaps) to illustrate findings.
 3. A notebook or script (Python, R, or SQL) showcasing the analytical workflow.
