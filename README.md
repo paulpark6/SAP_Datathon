@@ -21,9 +21,9 @@ countries.
 or principal component analysis (PCA) to assess impact.
 
 3. Develop Policy Recommendations:
-○ Based on findings, propose data-driven policy interventions tailored to the top
+- Based on findings, propose data-driven policy interventions tailored to the top
 N most affected countries.
-○ Highlight areas for improvement and potential solutions that align with SAP’s
+- Highlight areas for improvement and potential solutions that align with SAP’s
 sustainability efforts.
 
 # Evaluation Criteria
