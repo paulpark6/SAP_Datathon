@@ -28,20 +28,20 @@ sustainability efforts.
 
 # Evaluation Criteria
 Submissions will be evaluated based on:
-1. Index Construction & Methodology (30%)
-○ How well the multidimensional index is structured and justified.
-○ Soundness of methodology in weighting and aggregating indicators.
-2. Data-Driven Insights (25%)
-○ Depth of analysis in identifying key contributing indicators to poverty.
-○ Use of statistical/machine learning techniques to determine influence.
-3. Policy Recommendations (20%)
-○ Relevance and feasibility of proposed interventions for the top N affected
+Index Construction & Methodology (30%)
+- How well the multidimensional index is structured and justified.
+- Soundness of methodology in weighting and aggregating indicators.
+3. Data-Driven Insights (25%)
+- Depth of analysis in identifying key contributing indicators to poverty.
+- Use of statistical/machine learning techniques to determine influence.
+4. Policy Recommendations (20%)
+- Relevance and feasibility of proposed interventions for the top N affected
 countries.
-○ Alignment with SAP’s sustainability goals.
-4. Innovation & Creativity (15%)
-○ Unique approaches in index construction, visualization, or storytelling.
-5. Clarity & Presentation (10%)
-○ Well-structured report, code, and visualizations to support conclusions.
+- Alignment with SAP’s sustainability goals.
+5. Innovation & Creativity (15%)
+- Unique approaches in index construction, visualization, or storytelling.
+6. Clarity & Presentation (10%)
+- Well-structured report, code, and visualizations to support conclusions.
 
 # Submission Requirements
 1. A detailed report outlining the methodology, analysis, and policy recommendations.
