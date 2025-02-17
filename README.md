@@ -10,14 +10,14 @@ this an exciting opportunity to develop innovative solutions that can drive real
 
 # Challenge Objectives
 1. Build a Multidimensional Index:
-○  Identify key indicators from the dataset that best capture different dimensions of
+- Identify key indicators from the dataset that best capture different dimensions of
 poverty, including education, health, and living standards.
-○ Aggregate these indicators into a composite index to compare and rank
+- Aggregate these indicators into a composite index to compare and rank
 countries.
-○ Explore relationships between sustainability efforts and poverty alleviation.
+- Explore relationships between sustainability efforts and poverty alleviation.
 2. Determine the Most Influential Indicators:
-○ Analyze which indicators contribute most significantly to poverty levels.
-○ Utilize techniques such as correlation analysis, feature importance methods,
+- Analyze which indicators contribute most significantly to poverty levels.
+- Utilize techniques such as correlation analysis, feature importance methods,
 or principal component analysis (PCA) to assess impact.
 
 3. Develop Policy Recommendations:
