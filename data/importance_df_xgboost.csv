@@ -1,175 +1,67 @@
 ,Feature,Importance
-149,2023_Multidimensional poverty headcount ratio (World Bank) (% of population),0.7242571699838215
-62,2022_Multidimensional poverty headcount ratio (World Bank) (% of population),0.7235862112313803
-46,2022_Current health expenditure per capita (current US$),0.6809599319578072
-133,2023_Current health expenditure per capita (current US$),0.6809599319578072
-153,2023_People using safely managed drinking water services (% of population),0.6424736630454677
-66,2022_People using safely managed drinking water services (% of population),0.6424736630454677
-84,2022_Wanted fertility rate (births per woman),0.6160510325806806
-171,2023_Wanted fertility rate (births per woman),0.6033383881481719
-94,2023_Adequacy of social protection and labor programs (% of total welfare of beneficiary households),0.5718266239774812
-7,2022_Adequacy of social protection and labor programs (% of total welfare of beneficiary households),0.5718266239774812
-121,2023_Children out of school (% of primary school age),0.5673025371275313
-148,2023_Multidimensional poverty headcount ratio (UNDP) (% of population),0.5364623334753702
-61,2022_Multidimensional poverty headcount ratio (UNDP) (% of population),0.5364623334753702
-71,"2022_School enrollment, secondary (gross), gender parity index (GPI)",0.5118769980667156
-158,"2023_School enrollment, secondary (gross), gender parity index (GPI)",0.5118769980667156
-140,"2023_International migrant stock, total",0.4916688037655682
-53,"2022_International migrant stock, total",0.4916688037655682
-78,2022_Unemployment with intermediate education (% of total labor force with intermediate education),0.45749552093616896
-125,"2023_Children out of school, primary, female",0.45600018098603884
-90,2023_Access to electricity (% of population),0.45074588405946975
-3,2022_Access to electricity (% of population),0.45074588405946975
-124,"2023_Children out of school, primary",0.4493180333934837
-81,"2022_Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",0.44908566848244474
-168,"2023_Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",0.44908566848244474
-97,2023_Adjusted net national income per capita (current US$),0.4336846262967341
-10,2022_Adjusted net national income per capita (current US$),0.4336846262967341
-38,"2022_Children out of school, primary, female",0.4265063686331355
-126,"2023_Children out of school, primary, male",0.41371828869413835
-37,"2022_Children out of school, primary",0.4058977375086977
-122,"2023_Children out of school, female (% of female primary school age)",0.4039622244030282
-39,"2022_Children out of school, primary, male",0.39172199205750713
-151,2023_People using at least basic drinking water services (% of population),0.3823181139706589
-64,2022_People using at least basic drinking water services (% of population),0.3823181139706589
-123,"2023_Children out of school, male (% of male primary school age)",0.3651862679001491
-34,2022_Children out of school (% of primary school age),0.3567185734785761
-42,2022_Compensation of employees (current LCU),0.34595784752303904
-129,2023_Compensation of employees (current LCU),0.3456768817516256
-30,"2022_Children in employment, wage workers, male (% of male children in employment, ages 7-14)",0.34481107497569674
-117,"2023_Children in employment, wage workers, male (% of male children in employment, ages 7-14)",0.34481107497569674
-165,2023_Unemployment with intermediate education (% of total labor force with intermediate education),0.3283712512802569
-131,2023_Control of Corruption: Estimate,0.3219100574808958
-44,2022_Control of Corruption: Estimate,0.3219100574808958
-92,"2023_Access to electricity, urban (% of urban population)",0.3198547389114684
-5,"2022_Access to electricity, urban (% of urban population)",0.3198547389114684
-139,2023_Expenditure on tertiary education (% of government expenditure on education),0.30411334647192895
-52,2022_Expenditure on tertiary education (% of government expenditure on education),0.30411334647192895
-24,"2022_Children in employment, study and work (% of children in employment, ages 7-14)",0.30136759787559847
-111,"2023_Children in employment, study and work (% of children in employment, ages 7-14)",0.30136759787559847
-118,"2023_Children in employment, work only (% of children in employment, ages 7-14)",0.3013365769997846
-31,"2022_Children in employment, work only (% of children in employment, ages 7-14)",0.3013365769997846
-160,2023_Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),0.27711222137590413
-104,"2023_Age dependency ratio, old (% of working-age population)",0.27680848503884
-15,"2022_Adolescents out of school, male (% of male lower secondary school age)",0.26081304869655847
-88,"2023_Access to clean fuels and technologies for cooking, rural (% of rural population)",0.251154697960844
-1,"2022_Access to clean fuels and technologies for cooking, rural (% of rural population)",0.251154697960844
-164,2023_Unemployment with basic education (% of total labor force with basic education),0.24866603057573727
-115,"2023_Children in employment, wage workers (% of children in employment, ages 7-14)",0.24455710720435886
-28,"2022_Children in employment, wage workers (% of children in employment, ages 7-14)",0.24455710720435886
-73,2022_Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant),0.23886566034257906
-41,2022_Compensation of employees (% of expense),0.23469933575782345
-128,2023_Compensation of employees (% of expense),0.23469933575782345
-102,"2023_Adolescents out of school, male (% of male lower secondary school age)",0.23252491117057902
-17,"2022_Age dependency ratio, old (% of working-age population)",0.22950217096708309
-68,2022_Pregnant women receiving prenatal care (%),0.22915201049817518
-155,2023_Pregnant women receiving prenatal care (%),0.22915201049817518
-54,"2022_Literacy rate, adult female (% of females ages 15 and above)",0.22458261941751745
-141,"2023_Literacy rate, adult female (% of females ages 15 and above)",0.22458079336936754
-0,2022_Access to clean fuels and technologies for cooking (% of population),0.22106085705455203
-87,2023_Access to clean fuels and technologies for cooking (% of population),0.22106085705455203
-50,2022_Expenditure on primary education (% of government expenditure on education),0.2157554022621326
-137,2023_Expenditure on primary education (% of government expenditure on education),0.2157554022621326
-35,"2022_Children out of school, female (% of female primary school age)",0.21100228312713612
-159,"2023_School enrollment, tertiary (gross), gender parity index (GPI)",0.19291787349975373
-4,"2022_Access to electricity, rural (% of rural population)",0.18619894832276893
-91,"2023_Access to electricity, rural (% of rural population)",0.18619894832276893
-77,2022_Unemployment with basic education (% of total labor force with basic education),0.18584279478565582
-56,"2022_Literacy rate, adult total (% of people ages 15 and above)",0.18164460395741575
-143,"2023_Literacy rate, adult total (% of people ages 15 and above)",0.1816052960220156
-80,2022_Urban population (% of total population),0.1735189112616025
-136,"2023_Employers, total (% of total employment) (modeled ILO estimate)",0.1697160090032405
-49,"2022_Employers, total (% of total employment) (modeled ILO estimate)",0.1697160090032405
-72,"2022_School enrollment, tertiary (gross), gender parity index (GPI)",0.16716321372868254
-22,"2022_Cause of death, by injury (% of total)",0.16425493132966024
-109,"2023_Cause of death, by injury (% of total)",0.16425493132966024
-167,2023_Urban population (% of total population),0.16351262572722094
-95,2023_Adequacy of social safety net programs (% of total welfare of beneficiary households),0.16225106964848565
-8,2022_Adequacy of social safety net programs (% of total welfare of beneficiary households),0.16225106964848565
-154,2023_Political Stability and Absence of Violence/Terrorism: Estimate,0.16195831027996482
-67,2022_Political Stability and Absence of Violence/Terrorism: Estimate,0.16195831027996482
-9,2022_Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),0.15581406821263385
-96,2023_Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),0.15581406821263385
-36,"2022_Children out of school, male (% of male primary school age)",0.15538664543693614
-146,"2023_Literacy rate, youth male (% of males ages 15-24)",0.15187931002545985
-59,"2022_Literacy rate, youth male (% of males ages 15-24)",0.1514614888971759
-69,2022_Proportion of people living below 50 percent of median income (%),0.14564732302039982
-55,"2022_Literacy rate, adult male (% of males ages 15 and above)",0.14375969158933796
-142,"2023_Literacy rate, adult male (% of males ages 15 and above)",0.14366364601762352
-74,2022_Terms of trade adjustment (constant LCU),0.13975553108369873
-156,2023_Proportion of people living below 50 percent of median income (%),0.13469796649838564
-51,2022_Expenditure on secondary education (% of government expenditure on education),0.1295228930016405
-138,2023_Expenditure on secondary education (% of government expenditure on education),0.1295228930016405
-130,"2023_Compulsory education, duration (years)",0.12707796829470208
-43,"2022_Compulsory education, duration (years)",0.12541211506659478
-147,"2023_Literacy rate, youth total (% of people ages 15-24)",0.1197190677457067
-60,"2022_Literacy rate, youth total (% of people ages 15-24)",0.11946318215994044
-14,"2022_Adolescents out of school, female (% of female lower secondary school age)",0.10922393054113232
-85,2022_Women who were first married by age 15 (% of women ages 20-24),0.10851521576605572
-105,"2023_Age dependency ratio, young (% of working-age population)",0.10491815469433434
-170,"2023_Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",0.10341102596227197
-83,"2022_Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",0.10341102596227197
-76,2022_Unemployment with advanced education (% of total labor force with advanced education),0.10092472225271065
-45,2022_Current health expenditure (% of GDP),0.09341404935008123
-132,2023_Current health expenditure (% of GDP),0.09341404935008123
-172,2023_Women who were first married by age 15 (% of women ages 20-24),0.09303080097521706
-161,2023_Terms of trade adjustment (constant LCU),0.08825301773672481
-134,"2023_Employers, female (% of female employment) (modeled ILO estimate)",0.08574599751259808
-47,"2022_Employers, female (% of female employment) (modeled ILO estimate)",0.08574599751259808
-101,"2023_Adolescents out of school, female (% of female lower secondary school age)",0.08044157371899198
-75,"2022_Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",0.07988891626587995
-162,"2023_Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",0.07988891626587995
-152,2023_People using at least basic sanitation services (% of population),0.07874152274249939
-65,2022_People using at least basic sanitation services (% of population),0.07874152274249939
-100,2023_Adolescents out of school (% of lower secondary school age),0.07417645366754595
-26,"2022_Children in employment, study and work, male (% of male children in employment, ages 7-14)",0.07124503169933609
-113,"2023_Children in employment, study and work, male (% of male children in employment, ages 7-14)",0.07124503169933609
-120,"2023_Children in employment, work only, male (% of male children in employment, ages 7-14)",0.07121345540665384
-33,"2022_Children in employment, work only, male (% of male children in employment, ages 7-14)",0.07121345540665384
-16,2022_Age dependency ratio (% of working-age population),0.07097224345346591
-150,2023_Multilateral debt service (% of public and publicly guaranteed debt service),0.06713643151108034
-63,2022_Multilateral debt service (% of public and publicly guaranteed debt service),0.06713643151108034
-114,"2023_Children in employment, total (% of children ages 7-14)",0.05945551284645182
-27,"2022_Children in employment, total (% of children ages 7-14)",0.05945551284645182
-116,"2023_Children in employment, wage workers, female (% of female children in employment, ages 7-14)",0.048664011659140693
-29,"2022_Children in employment, wage workers, female (% of female children in employment, ages 7-14)",0.048664011659140693
-13,2022_Adolescents out of school (% of lower secondary school age),0.0481230172837661
-127,"2023_Community health workers (per 1,000 people)",0.04772255227207949
-40,"2022_Community health workers (per 1,000 people)",0.04772255227207949
-163,2023_Unemployment with advanced education (% of total labor force with advanced education),0.042938341350672204
-106,"2023_Birth rate, crude (per 1,000 people)",0.0421124920900754
-19,"2022_Birth rate, crude (per 1,000 people)",0.0421124920900754
-70,"2022_School enrollment, primary (gross), gender parity index (GPI)",0.03615815896039905
-157,"2023_School enrollment, primary (gross), gender parity index (GPI)",0.03615815896039905
-112,"2023_Children in employment, study and work, female (% of female children in employment, ages 7-14)",0.03588637039648382
-25,"2022_Children in employment, study and work, female (% of female children in employment, ages 7-14)",0.03588637039648382
-32,"2022_Children in employment, work only, female (% of female children in employment, ages 7-14)",0.035802614980116935
-119,"2023_Children in employment, work only, female (% of female children in employment, ages 7-14)",0.035802614980116935
-107,2023_Births attended by skilled health staff (% of total),0.0323750975228191
-20,2022_Births attended by skilled health staff (% of total),0.0323750975228191
-144,"2023_Literacy rate, youth (ages 15-24), gender parity index (GPI)",0.030354372817704103
-57,"2022_Literacy rate, youth (ages 15-24), gender parity index (GPI)",0.030000986255503313
-2,"2022_Access to clean fuels and technologies for cooking, urban (% of urban population)",0.028391740504398386
-89,"2023_Access to clean fuels and technologies for cooking, urban (% of urban population)",0.028391740504398386
-145,"2023_Literacy rate, youth female (% of females ages 15-24)",0.027196275349090367
-58,"2022_Literacy rate, youth female (% of females ages 15-24)",0.027085274953947743
-18,"2022_Age dependency ratio, young (% of working-age population)",0.022685351351371973
-93,2023_Adequacy of social insurance programs (% of total welfare of beneficiary households),0.018359693219799116
-6,2022_Adequacy of social insurance programs (% of total welfare of beneficiary households),0.018359693219799116
-108,"2023_Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",0.01733199772944708
-21,"2022_Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",0.01733199772944708
-166,"2023_Unemployment, total (% of total labor force) (national estimate)",0.016626536069161965
-173,2023_Women who were first married by age 18 (% of women ages 20-24),0.015204769937307567
-23,"2022_Cause of death, by non-communicable diseases (% of total)",0.013232328524802573
-110,"2023_Cause of death, by non-communicable diseases (% of total)",0.013232328524802573
-82,"2022_Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",0.009718021160616415
-169,"2023_Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",0.009718021160616415
-12,"2022_Adolescent fertility rate (births per 1,000 women ages 15-19)",0.008822284053360005
-99,"2023_Adolescent fertility rate (births per 1,000 women ages 15-19)",0.008822284053360005
-48,"2022_Employers, male (% of male employment) (modeled ILO estimate)",0.004892643735948654
-135,"2023_Employers, male (% of male employment) (modeled ILO estimate)",0.004892643735948654
-11,2022_Adjusted savings: education expenditure (current US$),0.0038488930913005773
-98,2023_Adjusted savings: education expenditure (current US$),0.0038488930913005773
-86,2022_Women who were first married by age 18 (% of women ages 20-24),0.0025623456815425855
-103,2023_Age dependency ratio (% of working-age population),0.002200049170775415
-79,"2022_Unemployment, total (% of total labor force) (national estimate)",0.001582835305134903
+2,2022_Access to electricity (% of population),14.425122261047363
+42,2022_Multidimensional poverty headcount ratio (World Bank) (% of population),3.397663116455078
+19,"2022_Children in employment, study and work (% of children in employment, ages 7-14)",3.0435028076171875
+41,2022_Multidimensional poverty headcount ratio (UNDP) (% of population),2.647209882736206
+17,"2022_Cause of death, by injury (% of total)",2.243743896484375
+24,2022_Compensation of employees (current LCU),1.5833333730697632
+28,2022_Current health expenditure per capita (current US$),1.582230567932129
+39,"2022_Literacy rate, youth female (% of females ages 15-24)",1.377762794494629
+44,2022_People using at least basic drinking water services (% of population),1.3047831058502197
+51,2022_Unemployment with basic education (% of total labor force with basic education),1.1760125160217285
+43,2022_Multilateral debt service (% of public and publicly guaranteed debt service),1.0392751693725586
+21,"2022_Children in employment, wage workers (% of children in employment, ages 7-14)",0.9247093200683594
+6,2022_Adequacy of social safety net programs (% of total welfare of beneficiary households),0.8779220581054688
+36,"2022_Literacy rate, adult female (% of females ages 15 and above)",0.8718156814575195
+34,2022_Expenditure on tertiary education (% of government expenditure on education),0.8570711612701416
+55,"2022_Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",0.7762572765350342
+54,2022_Urban population (% of total population),0.7469367980957031
+45,2022_People using at least basic sanitation services (% of population),0.6316927075386047
+46,2022_People using safely managed drinking water services (% of population),0.5714718699455261
+1,"2022_Access to clean fuels and technologies for cooking, rural (% of rural population)",0.5660151243209839
+49,2022_Terms of trade adjustment (constant LCU),0.5337702035903931
+18,"2022_Cause of death, by non-communicable diseases (% of total)",0.5134285688400269
+16,"2022_Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",0.4759155809879303
+22,"2022_Children out of school, female (% of female primary school age)",0.45654720067977905
+48,"2022_School enrollment, tertiary (gross), gender parity index (GPI)",0.454800546169281
+14,"2022_Age dependency ratio, young (% of working-age population)",0.4431525766849518
+10,2022_Adolescents out of school (% of lower secondary school age),0.41315603256225586
+15,2022_Births attended by skilled health staff (% of total),0.37521880865097046
+11,"2022_Adolescents out of school, male (% of male lower secondary school age)",0.3663807809352875
+52,2022_Unemployment with intermediate education (% of total labor force with intermediate education),0.3549027442932129
+33,2022_Expenditure on secondary education (% of government expenditure on education),0.3491172790527344
+5,2022_Adequacy of social insurance programs (% of total welfare of beneficiary households),0.347318172454834
+35,"2022_International migrant stock, total",0.34318867325782776
+0,2022_Access to clean fuels and technologies for cooking (% of population),0.2968411147594452
+50,2022_Unemployment with advanced education (% of total labor force with advanced education),0.2787366807460785
+47,2022_Political Stability and Absence of Violence/Terrorism: Estimate,0.27469614148139954
+8,2022_Adjusted savings: education expenditure (current US$),0.26388534903526306
+64,"2023_Unemployment, total (% of total labor force) (national estimate)",0.2632502615451813
+23,"2022_Children out of school, primary",0.25649547576904297
+25,"2022_Compulsory education, duration (years)",0.2502869665622711
+40,"2022_Literacy rate, youth male (% of males ages 15-24)",0.2393208146095276
+61,"2023_School enrollment, tertiary (gross), gender parity index (GPI)",0.2081674486398697
+9,"2022_Adolescent fertility rate (births per 1,000 women ages 15-19)",0.20725084841251373
+20,"2022_Children in employment, study and work, male (% of male children in employment, ages 7-14)",0.20299197733402252
+31,"2022_Employers, total (% of total employment) (modeled ILO estimate)",0.18627236783504486
+3,"2022_Access to electricity, rural (% of rural population)",0.17019720375537872
+13,"2022_Age dependency ratio, old (% of working-age population)",0.1590326428413391
+32,2022_Expenditure on primary education (% of government expenditure on education),0.1536538004875183
+4,"2022_Access to electricity, urban (% of urban population)",0.13730573654174805
+58,2022_Women who were first married by age 15 (% of women ages 20-24),0.1300848126411438
+56,"2022_Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",0.08047738671302795
+30,"2022_Employers, male (% of male employment) (modeled ILO estimate)",0.0679517537355423
+59,2023_Age dependency ratio (% of working-age population),0.06636318564414978
+65,2023_Urban population (% of total population),0.06263584643602371
+27,2022_Current health expenditure (% of GDP),0.04688141122460365
+60,"2023_Age dependency ratio, old (% of working-age population)",0.044531725347042084
+38,"2022_Literacy rate, youth (ages 15-24), gender parity index (GPI)",0.04292311519384384
+62,2023_Terms of trade adjustment (constant LCU),0.03600392863154411
+37,"2022_Literacy rate, adult male (% of males ages 15 and above)",0.03089517168700695
+29,"2022_Employers, female (% of female employment) (modeled ILO estimate)",0.02773113176226616
+53,"2022_Unemployment, total (% of total labor force) (national estimate)",0.023399055004119873
+12,2022_Age dependency ratio (% of working-age population),0.023052461445331573
+57,"2022_Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",0.017465995624661446
+7,2022_Adjusted net national income per capita (current US$),0.016834206879138947
+26,2022_Control of Corruption: Estimate,0.009336449205875397
+63,2023_Unemployment with advanced education (% of total labor force with advanced education),0.001990780234336853
